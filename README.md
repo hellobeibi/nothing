@@ -15,3 +15,6 @@
 	            <bean class = "org.springframework.http.converter.FormHttpMessageConverter"/>
 	        </mvc:message-converters>
 	    </mvc:annotation-driven>
+
+
+	<a>标签 通过 target='_blank' 方法打开的新页面 ，调用原页面的方法，使用 window.opener.xxxFun :参考。http://www.w3school.com.cn/jsref/prop_win_opener.asp
